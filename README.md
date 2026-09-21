@@ -1,2 +1,12 @@
-# pci-dss-handson-downloads
-Download files for PCI DSS hands-on articles
+
+# PCI DSS Hands-on Downloads
+
+Zennで公開しているPCI DSS学習ラボ記事の配布ファイル置き場です。
+
+## 注意
+
+この環境は学習用です。
+PCI DSS準拠を証明するものではありません。
+
+公開用ファイルでは、個別のAWSアカウント情報、
+グローバルIPアドレス等をマスクしています。
